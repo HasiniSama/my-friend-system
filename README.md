@@ -3,3 +3,5 @@ This system was developed as an assignment for SENG 21253 - Web Application Deve
 Developed using php + MySQL + HTML + CSS.
 
 This can manage friends.
+
+#hacktoberfest2022
